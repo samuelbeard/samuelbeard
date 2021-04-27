@@ -1,3 +1,5 @@
+[![Instagram Badge](https://img.shields.io/badge/-_samuelbeard-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_samuelbeard/)](https://instagram.com/_samuelbeard)
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
